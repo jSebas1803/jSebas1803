@@ -6,5 +6,5 @@
 - 🔭 Soy estudiante de pregrado en Estadistíca en la Universidad Nacional de Colombia.
 - 🌱 Actualmente estoy aprendiendo programación.
 - 👨🏽‍🔬 Espero convertirme en un cientifico de datos.
-- 👨🏾‍💻 Tengo conocimientos en JavaSript.
+- 👨🏾‍💻 Tengo conocimientos en JavaScript.
 
